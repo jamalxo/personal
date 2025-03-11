@@ -169,9 +169,10 @@ function toggleTheme(dark) {
     const userTheme = localStorage.theme;
 
     if (userTheme === "light" || userTheme === "dark") {
-      toggleTheme(userTheme === "dark");
+        toggleTheme(userTheme === "dark");
     } else {
-      toggleTheme(window.matchMedia("(prefers-color-scheme: dark)").matches);
+        // Set light mode as default if no theme is set
+        toggleTheme(false);
     }
   }
 
