@@ -1,8 +1,12 @@
 ---
-company: "Apple"
-role: "Software Engineer"
+company: "HubSpot"
+role: "Senior Software Engineer 1"
 dateStart: "01/01/2020"
 dateEnd: "11/27/2022"
 ---
 
-Voluptatem est quaerat voluptas praesentium ipsa dolorem dignissimos nulla ratione distinctio quae maiores eligendi nostrum? Quibusdam, debitis voluptatum, lorem ipsum dolor. Sit amet consectetur adipisicing elit. Iure illo neque tempora.
+- 2023
+- 2024
+- 2025
+- 2026
+- 2027
